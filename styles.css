@@ -12,6 +12,11 @@
   background-color: white;
   z-index: 1000;
 }
+.bttn{
+  background-color: rgb(12, 131, 31);
+  color:white;
+  border-radius: 8px;
+}
 .delivery{
   border-left:1px solid rgb(238,238,238) ;
   padding-top: 10px;
